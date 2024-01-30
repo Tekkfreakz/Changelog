@@ -12,3 +12,4 @@ Changelog:
 - fixed GodMode crash
 - fixed Redesigning Character  
 - fixed bugs
+- fixes Auth Logging
