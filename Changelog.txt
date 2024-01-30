@@ -1,0 +1,15 @@
+Changelog from the 22.01.2024 #6:
+
+... 3.0.3.0
+
+Changelog:
+- added new Pictures for Vehicle Spawn Preview
+- added Safe RP Loop 
+- added custom .ini outfits or save them in-game as an .ini file 
+- added new Mod Menu and Logs Design
+- added new Injector Loader for Godkiller Menu 
+- added Xbox controller Support
+- fixed GodMode crash
+- fixed Redesigning Character  
+- fixed bugs
+- fixed CEO Kick
