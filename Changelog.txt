@@ -12,4 +12,3 @@ Changelog:
 - fixed GodMode crash
 - fixed Redesigning Character  
 - fixed bugs
-- fixed Fatima
